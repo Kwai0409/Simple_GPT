@@ -1,0 +1,1017 @@
+Q: John has 5 apples, and he gives 2 apples to his friend. How many apples does John have left?
+A: John has 3 apples left.
+
+Q: Sara bought a shirt for $20 and a pair of pants for $30. How much did she spend in total?
+A: Sara spent a total of $50.
+
+Q: There are 30 students in a class. If 12 students are absent, how many students are present?
+A: There are 18 students present.
+
+Q: Tom has 8 marbles, and he gives away 3 marbles to his sister. How many marbles does Tom have now?
+A: Tom has 5 marbles left.
+
+Q: A box contains 24 chocolates. If 8 chocolates are eaten, how many chocolates are left in the box?
+A: There are 16 chocolates left in the box.
+
+Q: Mary has 15 stickers, and she wants to share them equally among her 3 friends. How many stickers will each friend get?
+A: Each friend will get 5 stickers.
+
+Q: A bookstore sells 50 books in a day. If 20 books are sold in the morning, how many books are sold in the afternoon?
+A: 30 books are sold in the afternoon.
+
+Q: There are 18 cupcakes, and they need to be distributed equally among 6 children. How many cupcakes will each child get?
+A: Each child will get 3 cupcakes.
+
+Q: A toy costs $25, and Sarah saves $10 every week. How many weeks will it take for Sarah to save enough money to buy the toy?
+A: It will take Sarah 3 weeks to save enough money to buy the toy.
+
+Q: A rectangular garden has a length of 10 meters and a width of 5 meters. What is the area of the garden?
+A: The area of the garden is 50 square meters.
+
+Q: John has 5 apples, and he gives 2 apples to his friend. How many apples does John have left?
+A: John has 3 apples left.
+
+Q: Sara bought a shirt for $20 and a pair of pants for $30. How much did she spend in total?
+A: Sara spent a total of $50.
+
+Q: There are 30 students in a class. If 12 students are absent, how many students are present?
+A: There are 18 students present.
+
+Q: Tom has 8 marbles, and he gives away 3 marbles to his sister. How many marbles does Tom have now?
+A: Tom has 5 marbles left.
+
+Q: A box contains 24 chocolates. If 8 chocolates are eaten, how many chocolates are left in the box?
+A: There are 16 chocolates left in the box.
+
+Q: Mary has 15 stickers, and she wants to share them equally among her 3 friends. How many stickers will each friend get?
+A: Each friend will get 5 stickers.
+
+Q: A bookstore sells 50 books in a day. If 20 books are sold in the morning, how many books are sold in the afternoon?
+A: 30 books are sold in the afternoon.
+
+Q: There are 18 cupcakes, and they need to be distributed equally among 6 children. How many cupcakes will each child get?
+A: Each child will get 3 cupcakes.
+
+Q: A toy costs $25, and Sarah saves $10 every week. How many weeks will it take for Sarah to save enough money to buy the toy?
+A: It will take Sarah 3 weeks to save enough money to buy the toy.
+
+Q: A rectangular garden has a length of 10 meters and a width of 5 meters. What is the area of the garden?
+A: The area of the garden is 50 square meters.
+
+Q: Amy has 20 candies. She gives half of them to her friend. How many candies does Amy have left?
+A: Amy has 10 candies left.
+
+Q: A store offers a 15% discount on a $80 shirt. What is the discounted price?
+A: The discounted price of the shirt is $68.
+
+Q: A pizza is divided into 8 equal slices. If 3 slices are eaten, how many slices are left?
+A: There are 5 slices left.
+
+Q: A box contains 36 pencils. If 9 pencils are taken out of the box, how many pencils are left?
+A: There are 27 pencils left.
+
+Q: In a class of 40 students, 20 students are girls. How many boys are there in the class?
+A: There are 20 boys in the class.
+
+Q: A square garden has an area of 49 square meters. What is the length of each side of the garden?
+A: Each side of the garden is 7 meters.
+
+Q: Peter has twice as many marbles as Jack. If Jack has 10 marbles, how many marbles does Peter have?
+A: Peter has 20 marbles.
+
+Q: A recipe requires 3 cups of sugar. If Susan wants to make 1/2 of the recipe, how many cups of sugar does she need?
+A: Susan needs 1.5 cups of sugar.
+
+Q: A train travels at a speed of 100 kilometers per hour. How far will it travel in 2.5 hours?
+A: The train will travel 250 kilometers.
+
+Q: A triangle has a base of 8 centimeters and a height of 6 centimeters. What is the area of the triangle?
+A: The area of the triangle is 24 square centimeters.
+
+Q: There are 30 students in a class. If 1/3 of them are absent, how many students are present?
+A: There are 20 students present.
+
+Q: Lisa has 4 times as many stickers as Ben. If Ben has 8 stickers, how many stickers does Lisa have?
+A: Lisa has 32 stickers.
+
+Q: A pizza is divided into 12 equal slices. If 3/4 of the pizza is eaten, how many slices are left?
+A: There are 3 slices left.
+
+Q: A store sells a toy for $45, which is a 25% discount from the original price. What was the original price of the toy?
+A: The original price of the toy was $60.
+
+Q: A garden is in the shape of a square. If each side of the square is 5 meters long, what is the perimeter of the garden?
+A: The perimeter of the garden is 20 meters.
+
+Q: John has $80. He spends 1/4 of his money on a video game. How much money does he have left?
+A: John has $60 left.
+
+Q: A box contains 60 chocolates. If 3/5 of the chocolates are eaten, how many chocolates are left in the box?
+A: There are 24 chocolates left in the box.
+
+Q: A car travels at a speed of 60 miles per hour. How far will it travel in 2.5 hours?
+A: The car will travel 150 miles.
+
+Q: A rectangle has a length of 12 centimeters and a width of 8 centimeters. What is the perimeter of the rectangle?
+A: The perimeter of the rectangle is 40 centimeters.
+
+Q: There are 15 red balls and 25 blue balls in a bag. What is the ratio of red balls to blue balls in simplest form?
+A: The ratio of red balls to blue balls is 3:5.
+
+Q: A box contains 24 pencils. If 1/3 of the pencils are red and the rest are blue, how many blue pencils are there?
+A: There are 16 blue pencils.
+
+Q: Alex has 5 times as many marbles as Lily. If Lily has 10 marbles, how many marbles does Alex have?
+A: Alex has 50 marbles.
+
+Q: A recipe requires 2 cups of flour to make 12 cookies. If you want to make 24 cookies, how many cups of flour do you need?
+A: You need 4 cups of flour.
+
+Q: A school has 600 students. If 3/5 of the students are girls, how many boys are there in the school?
+A: There are 240 boys in the school.
+
+Q: A rectangular garden has a length of 10 meters and an area of 80 square meters. What is the width of the garden?
+A: The width of the garden is 8 meters.
+
+Q: Sarah has $60. She spends 1/4 of her money on a book and 1/3 of her money on a toy. How much money does she have left?
+A: Sarah has $30 left.
+
+Q: A store sells apples for $0.50 each and oranges for $0.40 each. If John buys 4 apples and 6 oranges, how much does he spend?
+A: John spends $4.40.
+
+Q: A car travels at an average speed of 50 miles per hour. How long will it take to travel a distance of 200 miles?
+A: It will take 4 hours.
+
+Q: A triangle has a base of 8 centimeters and a height of 6 centimeters. What is the area of the triangle?
+A: The area of the triangle is 24 square centimeters.
+
+Q: A classroom has 25 students. If 2/5 of them are absent, how many students are present?
+A: There are 15 students present.
+
+Q: Jane has 10 books. If she gives away 3 books to her friend, how many books does she have left?
+A: Jane has 7 books left.
+
+Q: A store is offering a 20% discount on a $60 toy. What is the discounted price?
+A: The discounted price of the toy is $48.
+
+Q: A recipe requires 2 cups of sugar. If you want to make 1/3 of the recipe, how many cups of sugar do you need?
+A: You need 2/3 cup of sugar.
+
+Q: A box contains 36 chocolates. If 2/3 of the chocolates are eaten, how many chocolates are left in the box?
+A: There are 12 chocolates left in the box.
+
+Q: In a class of 40 students, 3/5 of them are boys. How many girls are there in the class?
+A: There are 16 girls in the class.
+
+Q: A square garden has an area of 49 square meters. What is the length of each side of the garden?
+A: Each side of the garden is 7 meters.
+
+Q: Peter has 4 times as many marbles as Jack. If Jack has 6 marbles, how many marbles does Peter have?
+A: Peter has 24 marbles.
+
+Q: A recipe requires 3/4 cup of flour. If you want to make 2 recipes, how many cups of flour do you need?
+A: You need 1.5 cups of flour.
+
+Q: A train travels at a speed of 80 kilometers per hour. How far will it travel in 2 hours?
+A: The train will travel 160 kilometers.
+
+Q: A triangle has a base of 6 centimeters and a height of 8 centimeters. What is the area of the triangle?
+A: The area of the triangle is 24 square centimeters.
+
+Q: A bag contains 24 marbles. If 1/3 of the marbles are blue and the rest are red, how many red marbles are there?
+A: There are 16 red marbles.
+
+Q: Lisa has 4 times as many stickers as Ben. If Ben has 10 stickers, how many stickers does Lisa have?
+A: Lisa has 40 stickers.
+
+Q: A recipe requires 2 cups of flour to make 12 cookies. If you want to make 36 cookies, how many cups of flour do you need?
+A: You need 6 cups of flour.
+
+Q: A school has 600 students. If 3/5 of the students are girls, how many boys are there in the school?
+A: There are 240 boys in the school.
+
+Q: A rectangular garden has a length of 10 meters and an area of 80 square meters. What is the width of the garden?
+A: The width of the garden is 8 meters.
+
+Q: Sarah has $60. She spends 1/4 of her money on a book and 1/3 of her money on a toy. How much money does she have left?
+A: Sarah has $30 left.
+
+Q: A store sells apples for $0.50 each and oranges for $0.40 each. If John buys 4 apples and 6 oranges, how much does he spend?
+A: John spends $4.80.
+
+Q: A car travels at an average speed of 50 miles per hour. How long will it take to travel a distance of 200 miles?
+A: It will take 4 hours.
+
+Q: A triangle has a base of 8 centimeters and a height of 6 centimeters. What is the area of the triangle?
+A: The area of the triangle is 24 square centimeters.
+
+Q: A classroom has 25 students. If 2/5 of them are absent, how many students are present?
+A: There are 15 students present.
+
+Q: There are 30 apples in a basket. If 1/5 of the apples are rotten, how many apples are rotten?
+A: There are 6 rotten apples.
+
+Q: A store is having a sale with 30% off all items. If a shirt originally costs $40, what is the sale price?
+A: The sale price of the shirt is $28.
+
+Q: A recipe calls for 2 cups of milk. If you want to make half the recipe, how many cups of milk do you need?
+A: You need 1 cup of milk.
+
+Q: In a classroom of 40 students, 3/4 of them are girls. How many boys are in the classroom?
+A: There are 10 boys in the classroom.
+
+Q: A rectangular garden has a length of 12 meters and a width of 8 meters. What is the area of the garden?
+A: The area of the garden is 96 square meters.
+
+Q: Peter has 3 times as many marbles as Jack. If Jack has 10 marbles, how many marbles does Peter have?
+A: Peter has 30 marbles.
+
+Q: A recipe requires 3/4 cup of sugar. If you want to make 2 recipes, how many cups of sugar do you need?
+A: You need 1.5 cups of sugar.
+
+Q: A train travels at a speed of 100 kilometers per hour. How far will it travel in 2.5 hours?
+A: The train will travel 250 kilometers.
+
+Q: A triangle has a base of 10 centimeters and a height of 6 centimeters. What is the area of the triangle?
+A: The area of the triangle is 30 square centimeters.
+
+Q: There are 20 students in a class. If 1/4 of them are absent, how many students are present?
+A: There are 15 students present.
+
+Q: A box contains 50 chocolates. If 1/5 of the chocolates are dark chocolate and the rest are milk chocolate, how many milk chocolates are there?
+A: There are 40 milk chocolates.
+
+Q: Lisa has 5 times as many stickers as Ben. If Ben has 10 stickers, how many stickers does Lisa have?
+A: Lisa has 50 stickers.
+
+Q: A recipe requires 2 cups of flour to make 12 cookies. If you want to make 24 cookies, how many cups of flour do you need?
+A: You need 4 cups of flour.
+
+Q: A store sells apples for $0.50 each and oranges for $0.40 each. If John buys 3 apples and 5 oranges, how much does he spend?
+A: John spends $3.10.
+
+Q: A car travels at an average speed of 60 miles per hour. How long will it take to travel a distance of 180 miles?
+A: It will take 3 hours.
+
+Q: A triangle has a base of 6 centimeters and a height of 4 centimeters. What is the area of the triangle?
+A: The area of the triangle is 12 square centimeters.
+
+Q: Peter has 3 times as many marbles as Jack. If Jack has 8 marbles, how many marbles does Peter have?
+A: Peter has 24 marbles.
+
+Q: A recipe calls for 1/2 cup of sugar. If you want to make twice the recipe, how many cups of sugar do you need?
+A: You need 1 cup of sugar.
+
+Q: A rectangular garden has a length of 15 meters and a width of 10 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 50 meters.
+
+Q: A class has 25 students. If 1/4 of them are absent, how many students are present?
+A: There are 19 students present.
+
+Q: There are 40 students in a class. If 1/4 of them are absent, how many students are present?
+A: There are 30 students present.
+
+Q: Lisa has 3 times as many stickers as Ben. If Ben has 8 stickers, how many stickers does Lisa have?
+A: Lisa has 24 stickers.
+
+Q: A recipe requires 1/2 cup of flour to make 10 cookies. If you want to make 20 cookies, how many cups of flour do you need?
+A: You need 1 cup of flour.
+
+Q: A store sells apples for $0.60 each and oranges for $0.40 each. If John buys 4 apples and 6 oranges, how much does he spend?
+A: John spends $5.20.
+
+Q: A car travels at an average speed of 70 miles per hour. How long will it take to travel a distance of 210 miles?
+A: It will take 3 hours.
+
+Q: A triangle has a base of 8 centimeters and a height of 5 centimeters. What is the area of the triangle?
+A: The area of the triangle is 20 square centimeters.
+
+Q: Peter has 4 times as many marbles as Jack. If Jack has 6 marbles, how many marbles does Peter have?
+A: Peter has 24 marbles.
+
+Q: A recipe calls for 3/4 cup of sugar. If you want to make twice the recipe, how many cups of sugar do you need?
+A: You need 1.5 cups of sugar.
+
+Q: A rectangular garden has a length of 12 meters and a width of 8 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 40 meters.
+
+Q: A class has 35 students. If 2/7 of them are absent, how many students are present?
+A: There are 25 students present.
+
+Q: A box contains 60 candies. If 1/4 of the candies are red and the rest are green, how many green candies are there?
+A: There are 45 green candies.
+
+Q: Lisa has 6 times as many stickers as Ben. If Ben has 8 stickers, how many stickers does Lisa have?
+A: Lisa has 48 stickers.
+
+Q: A recipe requires 1/3 cup of flour to make 9 cookies. If you want to make 18 cookies, how many cups of flour do you need?
+A: You need 2/3 cup of flour.
+
+Q: A store sells apples for $0.80 each and oranges for $0.60 each. If John buys 3 apples and 5 oranges, how much does he spend?
+A: John spends $5.40.
+
+Q: A car travels at an average speed of 60 kilometers per hour. How long will it take to travel a distance of 180 kilometers?
+A: It will take 3 hours.
+
+Q: A triangle has a base of 10 centimeters and a height of 8 centimeters. What is the area of the triangle?
+A: The area of the triangle is 40 square centimeters.
+
+Q: Peter has 5 times as many marbles as Jack. If Jack has 10 marbles, how many marbles does Peter have?
+A: Peter has 50 marbles.
+
+Q: A recipe calls for 2/3 cup of sugar. If you want to make twice the recipe, how many cups of sugar do you need?
+A: You need 4/3 cups (or 1 1/3 cups) of sugar.
+
+Q: A rectangular garden has a length of 14 meters and a width of 10 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 48 meters.
+
+Q: A class has 40 students. If 3/8 of them are absent, how many students are present?
+A: There are 25 students present.
+
+Q: A box contains 80 chocolates. If 3/8 of the chocolates are dark chocolate and the rest are milk chocolate, how many milk chocolates are there?
+A: There are 50 milk chocolates.
+
+Q: Lisa has 4 times as many stickers as Ben. If Ben has 12 stickers, how many stickers does Lisa have?
+A: Lisa has 48 stickers.
+
+Q: A recipe requires 3/4 cup of flour to make 12 cookies. If you want to make 24 cookies, how many cups of flour do you need?
+A: You need 1.5 cups of flour.
+
+Q: A store sells apples for $0.60 each and oranges for $0.50 each. If John buys 5 apples and 8 oranges, how much does he spend?
+A: John spends $7.70.
+
+Q: A car travels at an average speed of 70 miles per hour. How long will it take to travel a distance of 210 miles?
+A: It will take 3 hours.
+
+Q: A triangle has a base of 12 centimeters and a height of 6 centimeters. What is the area of the triangle?
+A: The area of the triangle is 36 square centimeters.
+
+Q: Peter has 3 times as many marbles as Jack. If Jack has 10 marbles, how many marbles does Peter have?
+A: Peter has 30 marbles.
+
+Q: A recipe calls for 1/2 cup of sugar. If you want to make three times the recipe, how many cups of sugar do you need?
+A: You need 1.5 cups of sugar.
+
+Q: A rectangular garden has a length of 16 meters and a width of 10 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 52 meters.
+
+Q: A class has 35 students. If 1/5 of them are absent, how many students are present?
+A: There are 28 students present.
+
+Q: There are 50 students in a class. If 2/5 of them are girls, how many boys are there in the class?
+A: There are 30 boys in the class.
+
+Q: Lisa has 3 times as many stickers as Ben. If Ben has 10 stickers, how many stickers does Lisa have?
+A: Lisa has 30 stickers.
+
+Q: A recipe requires 1/2 cup of flour to make 8 cookies. If you want to make 16 cookies, how many cups of flour do you need?
+A: You need 1 cup of flour.
+
+Q: A store sells apples for $0.70 each and oranges for $0.50 each. If John buys 4 apples and 6 oranges, how much does he spend?
+A: John spends $6.40.
+
+Q: A car travels at an average speed of 80 kilometers per hour. How long will it take to travel a distance of 160 kilometers?
+A: It will take 2 hours.
+
+Q: A triangle has a base of 10 centimeters and a height of 8 centimeters. What is the area of the triangle?
+A: The area of the triangle is 40 square centimeters.
+
+Q: Peter has 4 times as many marbles as Jack. If Jack has 8 marbles, how many marbles does Peter have?
+A: Peter has 32 marbles.
+
+Q: A recipe calls for 3/4 cup of sugar. If you want to make twice the recipe, how many cups of sugar do you need?
+A: You need 1.5 cups of sugar.
+
+Q: A rectangular garden has a length of 12 meters and a width of 6 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 36 meters.
+
+Q: A class has 40 students. If 3/10 of them are absent, how many students are present?
+A: There are 28 students present.
+
+Q: A box contains 60 chocolates. If 3/5 of the chocolates are dark chocolate and the rest are milk chocolate, how many milk chocolates are there?
+A: There are 24 milk chocolates.
+
+Q: Lisa has 5 times as many stickers as Ben. If Ben has 12 stickers, how many stickers does Lisa have?
+A: Lisa has 60 stickers.
+
+Q: A recipe requires 3/4 cup of flour to make 12 cookies. If you want to make 24 cookies, how many cups of flour do you need?
+A: You need 1.5 cups of flour.
+
+Q: A store sells apples for $0.80 each and oranges for $0.60 each. If John buys 3 apples and 5 oranges, how much does he spend?
+A: John spends $6.
+
+Q: A car travels at an average speed of 70 miles per hour. How long will it take to travel a distance of 140 miles?
+A: It will take 2 hours.
+
+Q: A triangle has a base of 12 centimeters and a height of 8 centimeters. What is the area of the triangle?
+A: The area of the triangle is 48 square centimeters.
+
+Q: Peter has 4 times as many marbles as Jack. If Jack has 10 marbles, how many marbles does Peter have?
+A: Peter has 40 marbles.
+
+Q: A recipe calls for 1/2 cup of sugar. If you want to make three times the recipe, how many cups of sugar do you need?
+A: You need 1.5 cups of sugar.
+
+Q: A rectangular garden has a length of 15 meters and a width of 10 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 50 meters.
+
+Q: A class has 35 students. If 2/7 of them are absent, how many students are present?
+A: There are 25 students present.
+
+Q: There are 80 students in a class. If 1/4 of them are boys, how many girls are there in the class?
+A: There are 60 girls in the class.
+
+Q: Lisa has 4 times as many stickers as Ben. If Ben has 15 stickers, how many stickers does Lisa have?
+A: Lisa has 60 stickers.
+
+Q: A recipe requires 3/5 cup of flour to make 15 cookies. If you want to make 30 cookies, how many cups of flour do you need?
+A: You need 1.2 cups of flour.
+
+Q: A store sells apples for $0.50 each and oranges for $0.40 each. If John buys 5 apples and 8 oranges, how much does he spend?
+A: John spends $7.
+
+Q: A car travels at an average speed of 60 kilometers per hour. How long will it take to travel a distance of 120 kilometers?
+A: It will take 2 hours.
+
+Q: A triangle has a base of 10 centimeters and a height of 6 centimeters. What is the area of the triangle?
+A: The area of the triangle is 30 square centimeters.
+
+Q: Peter has 3 times as many marbles as Jack. If Jack has 8 marbles, how many marbles does Peter have?
+A: Peter has 24 marbles.
+
+Q: A recipe calls for 1/3 cup of sugar. If you want to make four times the recipe, how many cups of sugar do you need?
+A: You need 1 1/3 cups of sugar.
+
+Q: A rectangular garden has a length of 12 meters and a width of 8 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 40 meters.
+
+Q: A class has 40 students. If 3/10 of them are absent, how many students are present?
+A: There are 28 students present.
+
+Q: There are 60 apples in a basket. If 1/3 of the apples are red and the rest are green, how many green apples are there?
+A: There are 40 green apples.
+
+Q: Lisa has 6 times as many stickers as Ben. If Ben has 10 stickers, how many stickers does Lisa have?
+A: Lisa has 60 stickers.
+
+Q: A recipe requires 1/2 cup of flour to make 8 cookies. If you want to make 16 cookies, how many cups of flour do you need?
+A: You need 1 cup of flour.
+
+Q: A store sells apples for $0.70 each and oranges for $0.50 each. If John buys 4 apples and 6 oranges, how much does he spend?
+A: John spends $6.20.
+
+Q: A car travels at an average speed of 80 kilometers per hour. How long will it take to travel a distance of 160 kilometers?
+A: It will take 2 hours.
+
+Q: A triangle has a base of 12 centimeters and a height of 6 centimeters. What is the area of the triangle?
+A: The area of the triangle is 36 square centimeters.
+
+Q: Peter has 4 times as many marbles as Jack. If Jack has 8 marbles, how many marbles does Peter have?
+A: Peter has 32 marbles.
+
+Q: A recipe calls for 3/4 cup of sugar. If you want to make twice the recipe, how many cups of sugar do you need?
+A: You need 1.5 cups of sugar.
+
+Q: A rectangular garden has a length of 14 meters and a width of 10 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 48 meters.
+
+Q: A class has 35 students. If 1/4 of them are absent, how many students are present?
+A: There are 26 students present.
+
+Q: There are 70 students in a class. If 3/7 of them are boys, how many girls are there in the class?
+A: There are 40 girls in the class.
+
+Q: Lisa has 5 times as many stickers as Ben. If Ben has 12 stickers, how many stickers does Lisa have?
+A: Lisa has 60 stickers.
+
+Q: A recipe requires 3/4 cup of flour to make 12 cookies. If you want to make 24 cookies, how many cups of flour do you need?
+A: You need 1.5 cups of flour.
+
+Q: A store sells apples for $0.60 each and oranges for $0.50 each. If John buys 4 apples and 6 oranges, how much does he spend?
+A: John spends $5.40.
+
+Q: A car travels at an average speed of 70 miles per hour. How long will it take to travel a distance of 140 miles?
+A: It will take 2 hours.
+
+Q: A triangle has a base of 12 centimeters and a height of 6 centimeters. What is the area of the triangle?
+A: The area of the triangle is 36 square centimeters.
+
+Q: Peter has 4 times as many marbles as Jack. If Jack has 8 marbles, how many marbles does Peter have?
+A: Peter has 32 marbles.
+
+Q: A recipe calls for 1/2 cup of sugar. If you want to make three times the recipe, how many cups of sugar do you need?
+A: You need 1.5 cups of sugar.
+
+Q: A rectangular garden has a length of 14 meters and a width of 10 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 48 meters.
+
+Q: A class has 40 students. If 3/10 of them are absent, how many students are present?
+A: There are 28 students present.
+
+Q: There are 50 apples in a basket. If 1/5 of the apples are red and the rest are green, how many green apples are there?
+A: There are 40 green apples.
+
+Q: Lisa has 4 times as many stickers as Ben. If Ben has 15 stickers, how many stickers does Lisa have?
+A: Lisa has 60 stickers.
+
+Q: A recipe requires 1/2 cup of flour to make 8 cookies. If you want to make 16 cookies, how many cups of flour do you need?
+A: You need 1 cup of flour.
+
+Q: A store sells apples for $0.60 each and oranges for $0.50 each. If John buys 5 apples and 8 oranges, how much does he spend?
+A: John spends $7.10.
+
+Q: A car travels at an average speed of 70 kilometers per hour. How long will it take to travel a distance of 140 kilometers?
+A: It will take 2 hours.
+
+Q: A triangle has a base of 12 centimeters and a height of 6 centimeters. What is the area of the triangle?
+A: The area of the triangle is 36 square centimeters.
+
+Q: Peter has 3 times as many marbles as Jack. If Jack has 8 marbles, how many marbles does Peter have?
+A: Peter has 24 marbles.
+
+Q: A recipe calls for 1/3 cup of sugar. If you want to make four times the recipe, how many cups of sugar do you need?
+A: You need 4/3 cups (or 1 1/3 cups) of sugar.
+
+Q: A rectangular garden has a length of 10 meters and a width of 8 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 36 meters.
+
+Q: A class has 35 students. If 1/4 of them are absent, how many students are present?
+A: There are 26 students present.
+
+Q: There are 60 students in a class. If 2/5 of them are boys, how many girls are there in the class?
+A: There are 36 girls in the class.
+
+Q: Lisa has 5 times as many stickers as Ben. If Ben has 10 stickers, how many stickers does Lisa have?
+A: Lisa has 50 stickers.
+
+Q: A recipe requires 3/4 cup of flour to make 12 cookies. If you want to make 24 cookies, how many cups of flour do you need?
+A: You need 1.5 cups of flour.
+
+Q: A store sells apples for $0.60 each and oranges for $0.50 each. If John buys 4 apples and 6 oranges, how much does he spend?
+A: John spends $5.40.
+
+Q: A car travels at an average speed of 80 kilometers per hour. How long will it take to travel a distance of 160 kilometers?
+A: It will take 2 hours.
+
+Q: A triangle has a base of 12 centimeters and a height of 6 centimeters. What is the area of the triangle?
+A: The area of the triangle is 36 square centimeters.
+
+Q: Peter has 4 times as many marbles as Jack. If Jack has 8 marbles, how many marbles does Peter have?
+A: Peter has 32 marbles.
+
+Q: A recipe calls for 1/2 cup of sugar. If you want to make three times the recipe, how many cups of sugar do you need?
+A: You need 1.5 cups of sugar.
+
+Q: A rectangular garden has a length of 14 meters and a width of 10 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 48 meters.
+
+Q: A class has 40 students. If 3/10 of them are absent, how many students are present?
+A: There are 28 students present.
+
+Q: A bakery sells cupcakes for $2 each and cookies for $1.50 each. If Jane buys 4 cupcakes and 6 cookies, how much does she spend?
+A: Jane spends $17.
+
+Q: Sarah wants to buy a new bike that costs $250. She currently has $150 saved. How much more money does Sarah need to buy the bike?
+A: Sarah needs $100 more to buy the bike.
+
+Q: If a box contains 30 marbles and 1/3 of them are blue, how many marbles are blue?
+A: There are 10 blue marbles.
+
+Q: Lisa has 5 times as many pencils as Ben. If Ben has 8 pencils, how many pencils does Lisa have?
+A: Lisa has 40 pencils.
+
+Q: A recipe requires 2/3 cup of sugar to make 12 cookies. If you want to make 24 cookies, how many cups of sugar do you need?
+A: You need 4/3 cups (or 1 1/3 cups) of sugar.
+
+Q: A store sells apples for $0.75 each and oranges for $0.60 each. If John buys 4 apples and 6 oranges, how much does he spend?
+A: John spends $6.90.
+
+Q: A car travels at an average speed of 60 miles per hour. How long will it take to travel a distance of 180 miles?
+A: It will take 3 hours.
+
+Q: A triangle has a base of 8 centimeters and a height of 6 centimeters. What is the area of the triangle?
+A: The area of the triangle is 24 square centimeters.
+
+Q: Peter has 3 times as many marbles as Jack. If Jack has 10 marbles, how many marbles does Peter have?
+A: Peter has 30 marbles.
+
+Q: A store sells apples for $0.50 each and oranges for $0.40 each. If John buys 3 apples and 5 oranges, how much does he spend?
+A: John spends $3.50.
+
+Q: A recipe requires 1/3 cup of flour to make 12 cookies. If you want to make 24 cookies, how many cups of flour do you need?
+A: You need 2/3 cup of flour.
+
+Q: A rectangle has a length of 8 meters and a width of 5 meters. What is the area of the rectangle?
+A: The area of the rectangle is 40 square meters.
+
+Q: A car travels at an average speed of 60 kilometers per hour. How long will it take to travel a distance of 180 kilometers?
+A: It will take 3 hours.
+
+Q: Peter has 3 times as many marbles as Jack. If Jack has 10 marbles, how many marbles does Peter have?
+A: Peter has 30 marbles.
+
+Q: A recipe calls for 1/2 cup of sugar. If you want to make three times the recipe, how many cups of sugar do you need?
+A: You need 1.5 cups of sugar.
+
+Q: A rectangular garden has a length of 12 meters and a width of 8 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 40 meters.
+
+Q: A class has 35 students. If 2/7 of them are absent, how many students are present?
+A: There are 25 students present.
+
+Q: A store sells apples for $0.50 each and oranges for $0.40 each. If John buys 3 apples and 5 oranges, how much does he spend?
+A: John spends $3.70.
+
+Q: A recipe requires 1/3 cup of flour to make 12 cookies. If you want to make 24 cookies, how many cups of flour do you need?
+A: You need 2/3 cup of flour.
+
+Q: A rectangular garden has a length of 8 meters and a width of 5 meters. What is the area of the garden?
+A: The area of the garden is 40 square meters.
+
+Q: A car travels at an average speed of 60 kilometers per hour. How long will it take to travel a distance of 180 kilometers?
+A: It will take 3 hours.
+
+Q: Peter has 3 times as many marbles as Jack. If Jack has 10 marbles, how many marbles does Peter have?
+A: Peter has 30 marbles.
+
+Q: A recipe calls for 1/2 cup of sugar. If you want to make three times the recipe, how many cups of sugar do you need?
+A: You need 1.5 cups of sugar.
+
+Q: A rectangular garden has a length of 12 meters and a width of 8 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 40 meters.
+
+Q: A class has 35 students. If 2/7 of them are absent, how many students are present?
+A: There are 25 students present.
+
+Q: A square has a side length of 10 centimeters. What is the perimeter of the square?
+A: The perimeter of the square is 40 centimeters.
+
+Q: A class has 40 students. If 3/10 of them are absent, how many students are present?
+A: There are 28 students present.
+
+Q: A pizza is divided into 8 equal slices. If 3 slices are eaten, what fraction of the pizza remains?
+A: 5/8 of the pizza remains.
+
+Q: The ratio of boys to girls in a class is 3:5. If there are 36 girls, how many boys are there?
+A: There are 18 boys.
+
+Q: A recipe requires 3/4 cup of milk. If you want to make half the recipe, how many cups of milk do you need?
+A: You need 3/8 cup of milk.
+
+Q: A rectangular swimming pool is 12 meters long and 6 meters wide. What is the area of the pool?
+A: The area of the pool is 72 square meters.
+
+Q: A car travels at a speed of 80 kilometers per hour. How far will it travel in 2.5 hours?
+A: It will travel 200 kilometers.
+
+Q: A recipe calls for 1/3 cup of butter. If you want to make double the recipe, how many cups of butter do you need?
+A: You need 2/3 cup of butter.
+
+Q: A rectangle has a length of 15 meters and a width of 10 meters. What is the perimeter of the rectangle?
+A: The perimeter of the rectangle is 50 meters.
+
+Q: A class has 30 students. If 3/5 of them are present, how many students are absent?
+A: There are 12 students absent.
+
+Q: A store sells apples for $0.60 each and oranges for $0.40 each. If John buys 5 apples and 8 oranges, how much does he spend?
+A: John spends $7.60.
+
+Q: A recipe requires 2/3 cup of flour to make 12 cookies. If you want to make 24 cookies, how many cups of flour do you need?
+A: You need 4/3 cups (or 1 1/3 cups) of flour.
+
+Q: A rectangular garden has a length of 10 meters and a width of 6 meters. What is the area of the garden?
+A: The area of the garden is 60 square meters.
+
+Q: A car travels at an average speed of 70 kilometers per hour. How long will it take to travel a distance of 210 kilometers?
+A: It will take 3 hours.
+
+Q: Peter has 4 times as many marbles as Jack. If Jack has 10 marbles, how many marbles does Peter have?
+A: Peter has 40 marbles.
+
+Q: A recipe calls for 1/2 cup of sugar. If you want to make four times the recipe, how many cups of sugar do you need?
+A: You need 2 cups of sugar.
+
+Q: A rectangular garden has a length of 14 meters and a width of 8 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 44 meters.
+
+Q: A class has 30 students. If 3/5 of them are absent, how many students are present?
+A: There are 12 students present.
+
+Q: A box contains 50 chocolates. If 1/5 of the chocolates are dark chocolate and the rest are milk chocolate, how many milk chocolates are there?
+A: There are 40 milk chocolates.
+
+Q: A recipe requires 1/3 cup of flour. If you want to make half the recipe, how many cups of flour do you need?
+A: You need 1/6 cup of flour.
+
+Q: A store sells pens for $1.50 each and pencils for $0.75 each. If Jane buys 3 pens and 5 pencils, how much does she spend?
+A: Jane spends $9.
+
+Q: A recipe requires 2/3 cup of milk to make 12 pancakes. If you want to make 24 pancakes, how many cups of milk do you need?
+A: You need 4/3 cups (or 1 1/3 cups) of milk.
+
+Q: A rectangular field has a length of 20 meters and a width of 10 meters. What is the area of the field?
+A: The area of the field is 200 square meters.
+
+Q: A car travels at an average speed of 60 kilometers per hour. How long will it take to travel a distance of 120 kilometers?
+A: It will take 2 hours.
+
+Q: Peter has 3 times as much money as Jack. If Jack has $20, how much money does Peter have?
+A: Peter has $60.
+
+Q: A recipe calls for 1/4 cup of sugar. If you want to make double the recipe, how many cups of sugar do you need?
+A: You need 1/2 cup of sugar.
+
+Q: A rectangular garden has a length of 15 meters and a width of 8 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 46 meters.
+
+Q: A class has 25 students. If 2/5 of them are absent, how many students are present?
+A: There are 15 students present.
+
+Q: A box contains 60 candies. If 1/3 of the candies are chocolate and the rest are fruit-flavored, how many fruit-flavored candies are there?
+A: There are 40 fruit-flavored candies.
+
+Q: A recipe requires 1/2 cup of flour. If you want to make triple the recipe, how many cups of flour do you need?
+A: You need 3/2 cups of flour.
+
+Q: A store sells T-shirts for $15 each and jeans for $40 each. If John buys 2 T-shirts and 3 jeans, how much does he spend?
+A: John spends $125.
+
+Q: A recipe requires 3/4 cup of milk to make 12 cupcakes. If you want to make 24 cupcakes, how many cups of milk do you need?
+A: You need 1 1/2 cups of milk.
+
+Q: A rectangular field has a length of 25 meters and a width of 15 meters. What is the area of the field?
+A: The area of the field is 375 square meters.
+
+Q: A car travels at an average speed of 70 kilometers per hour. How long will it take to travel a distance of 140 kilometers?
+A: It will take 2 hours.
+
+Q: Peter has 4 times as much money as Jack. If Jack has $30, how much money does Peter have?
+A: Peter has $120.
+
+Q: A recipe calls for 1/3 cup of sugar. If you want to make double the recipe, how many cups of sugar do you need?
+A: You need 2/3 cup of sugar.
+
+Q: A rectangular garden has a length of 18 meters and a width of 12 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 60 meters.
+
+Q: A class has 30 students. If 3/10 of them are absent, how many students are present?
+A: There are 21 students present.
+
+Q: A box contains 80 candies. If 2/5 of the candies are chocolate and the rest are fruit-flavored, how many fruit-flavored candies are there?
+A: There are 48 fruit-flavored candies.
+
+Q: A store sells apples for $0.50 each and bananas for $0.25 each. If Lisa buys 6 apples and 8 bananas, how much does she spend?
+A: Lisa spends $4.
+
+Q: A recipe requires 1/3 cup of flour to make 12 cookies. If you want to make 36 cookies, how many cups of flour do you need?
+A: You need 1 cup of flour.
+
+Q: A rectangular garden has a length of 12 meters and a width of 6 meters. What is the area of the garden?
+A: The area of the garden is 72 square meters.
+
+Q: A car travels at an average speed of 60 kilometers per hour. How long will it take to travel a distance of 120 kilometers?
+A: It will take 2 hours.
+
+Q: Peter has 5 times as much money as Jack. If Jack has $20, how much money does Peter have?
+A: Peter has $100.
+
+Q: A recipe calls for 1/4 cup of sugar. If you want to make double the recipe, how many cups of sugar do you need?
+A: You need 1/2 cup of sugar.
+
+Q: A rectangular garden has a length of 15 meters and a width of 10 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 50 meters.
+
+Q: A class has 25 students. If 3/5 of them are absent, how many students are present?
+A: There are 10 students present.
+
+Q: A box contains 60 candies. If 1/3 of the candies are chocolate and the rest are fruit-flavored, how many fruit-flavored candies are there?
+A: There are 40 fruit-flavored candies.
+
+Q: A recipe requires 1/2 cup of flour. If you want to make quadruple the recipe, how many cups of flour do you need?
+A: You need 2 cups of flour.
+
+Q: A store sells T-shirts for $20 each and jeans for $50 each. If Sarah buys 3 T-shirts and 2 jeans, how much does she spend?
+A: Sarah spends $110.
+
+Q: A recipe requires 1/2 cup of milk to make 8 pancakes. If you want to make 16 pancakes, how many cups of milk do you need?
+A: You need 1 cup of milk.
+
+Q: A rectangular field has a length of 30 meters and a width of 20 meters. What is the area of the field?
+A: The area of the field is 600 square meters.
+
+Q: A car travels at an average speed of 80 kilometers per hour. How long will it take to travel a distance of 160 kilometers?
+A: It will take 2 hours.
+
+Q: Peter has 4 times as much money as Jack. If Jack has $50, how much money does Peter have?
+A: Peter has $200.
+
+Q: A recipe calls for 1/3 cup of sugar. If you want to make triple the recipe, how many cups of sugar do you need?
+A: You need 1 cup of sugar.
+
+Q: A rectangular garden has a length of 16 meters and a width of 12 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 56 meters.
+
+Q: A class has 35 students. If 4/7 of them are absent, how many students are present?
+A: There are 15 students present.
+
+Q: A box contains 80 candies. If 3/5 of the candies are chocolate and the rest are fruit-flavored, how many fruit-flavored candies are there?
+A: There are 32 fruit-flavored candies.
+
+Q: A recipe requires 1/4 cup of flour. If you want to make triple the recipe, how many cups of flour do you need?
+A: You need 3/4 cup of flour.
+
+Q: A store sells notebooks for $3 each and pencils for $0.50 each. If Jane buys 4 notebooks and 10 pencils, how much does she spend?
+A: Jane spends $11.
+
+Q: A recipe requires 2/3 cup of flour to make 12 cookies. If you want to make 36 cookies, how many cups of flour do you need?
+A: You need 2 cups of flour.
+
+Q: A rectangular garden has a length of 10 meters and a width of 8 meters. What is the area of the garden?
+A: The area of the garden is 80 square meters.
+
+Q: A car travels at an average speed of 50 kilometers per hour. How long will it take to travel a distance of 150 kilometers?
+A: It will take 3 hours.
+
+Q: Peter has 3 times as much money as Jack. If Jack has $25, how much money does Peter have?
+A: Peter has $75.
+
+Q: A recipe calls for 1/4 cup of sugar. If you want to make double the recipe, how many cups of sugar do you need?
+A: You need 1/2 cup of sugar.
+
+Q: A rectangular garden has a length of 12 meters and a width of 6 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 36 meters.
+
+Q: A class has 40 students. If 1/5 of them are absent, how many students are present?
+A: There are 32 students present.
+
+Q: A box contains 60 candies. If 1/3 of the candies are chocolate and the rest are fruit-flavored, how many fruit-flavored candies are there?
+A: There are 40 fruit-flavored candies.
+
+Q: A store sells apples for $0.75 each and bananas for $0.50 each. If Lisa buys 5 apples and 8 bananas, how much does she spend?
+A: Lisa spends $7.25.
+
+Q: A recipe requires 1/3 cup of flour to make 12 cookies. If you want to make 24 cookies, how many cups of flour do you need?
+A: You need 2/3 cup of flour.
+
+Q: A rectangular garden has a length of 14 meters and a width of 10 meters. What is the area of the garden?
+A: The area of the garden is 140 square meters.
+
+Q: A car travels at an average speed of 60 kilometers per hour. How long will it take to travel a distance of 120 kilometers?
+A: It will take 2 hours.
+
+Q: Peter has 4 times as much money as Jack. If Jack has $40, how much money does Peter have?
+A: Peter has $160.
+
+Q: A recipe calls for 1/2 cup of sugar. If you want to make double the recipe, how many cups of sugar do you need?
+A: You need 1 cup of sugar.
+
+Q: A rectangular garden has a length of 16 meters and a width of 12 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 56 meters.
+
+Q: A class has 35 students. If 3/7 of them are absent, how many students are present?
+A: There are 20 students present.
+
+Q: A box contains 80 candies. If 2/5 of the candies are chocolate and the rest are fruit-flavored, how many fruit-flavored candies are there?
+A: There are 48 fruit-flavored candies.
+
+Q: A recipe requires 1/4 cup of flour. If you want to make triple the recipe, how many cups of flour do you need?
+A: You need 3/4 cup of flour.
+
+Q: A store sells notebooks for $2 each and pens for $1 each. If Jane buys 4 notebooks and 6 pens, how much does she spend?
+A: Jane spends $16.
+
+Q: A recipe requires 1/2 cup of milk to make 8 pancakes. If you want to make 16 pancakes, how many cups of milk do you need?
+A: You need 1 cup of milk.
+
+Q: A rectangular garden has a length of 12 meters and a width of 9 meters. What is the area of the garden?
+A: The area of the garden is 108 square meters.
+
+Q: A car travels at an average speed of 70 kilometers per hour. How long will it take to travel a distance of 140 kilometers?
+A: It will take 2 hours.
+
+Q: Peter has 3 times as much money as Jack. If Jack has $30, how much money does Peter have?
+A: Peter has $90.
+
+Q: A recipe calls for 1/3 cup of sugar. If you want to make double the recipe, how many cups of sugar do you need?
+A: You need 2/3 cup of sugar.
+
+Q: A rectangular garden has a length of 15 meters and a width of 12 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 54 meters.
+
+Q: A class has 30 students. If 1/4 of them are absent, how many students are present?
+A: There are 22 students present.
+
+Q: A box contains 60 candies. If 2/3 of the candies are chocolate and the rest are fruit-flavored, how many fruit-flavored candies are there?
+A: There are 20 fruit-flavored candies.
+
+Q: A store sells apples for $0.60 each and bananas for $0.40 each. If John buys 3 apples and 5 bananas, how much does he spend?
+A: John spends $3.80.
+
+Q: A recipe requires 1/3 cup of flour to make 12 cookies. If you want to make 36 cookies, how many cups of flour do you need?
+A: You need 1 cup of flour.
+
+Q: A rectangular garden has a length of 15 meters and a width of 10 meters. What is the area of the garden?
+A: The area of the garden is 150 square meters.
+
+Q: A car travels at an average speed of 80 kilometers per hour. How long will it take to travel a distance of 160 kilometers?
+A: It will take 2 hours.
+
+Q: Peter has 4 times as much money as Jack. If Jack has $50, how much money does Peter have?
+A: Peter has $200.
+
+Q: A recipe calls for 1/2 cup of sugar. If you want to make double the recipe, how many cups of sugar do you need?
+A: You need 1 cup of sugar.
+
+Q: A rectangular garden has a length of 18 meters and a width of 12 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 60 meters.
+
+Q: A class has 35 students. If 2/7 of them are absent, how many students are present?
+A: There are 25 students present.
+
+Q: A box contains 80 candies. If 3/5 of the candies are chocolate and the rest are fruit-flavored, how many fruit-flavored candies are there?
+A: There are 32 fruit-flavored candies.
+
+Q: A store sells notebooks for $2 each and pens for $1 each. If Alice buys 3 notebooks and 5 pens, how much does she spend?
+A: Alice spends $11.
+
+Q: A recipe requires 3/4 cup of milk to make 12 pancakes. If you want to make 24 pancakes, how many cups of milk do you need?
+A: You need 1.5 cups of milk.
+
+Q: A rectangular garden has a length of 10 meters and a width of 8 meters. What is the area of the garden?
+A: The area of the garden is 80 square meters.
+
+Q: A car travels at an average speed of 60 kilometers per hour. How long will it take to travel a distance of 120 kilometers?
+A: It will take 2 hours.
+
+Q: Mike has 3 times as much money as Lisa. If Lisa has $20, how much money does Mike have?
+A: Mike has $60.
+
+Q: A recipe calls for 1/3 cup of sugar. If you want to make double the recipe, how many cups of sugar do you need?
+A: You need 2/3 cup of sugar.
+
+Q: A rectangular garden has a length of 12 meters and a width of 6 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 36 meters.
+
+Q: A class has 30 students. If 1/4 of them are absent, how many students are present?
+A: There are 22 students present.
+
+Q: A box contains 60 candies. If 2/5 of the candies are chocolate and the rest are fruit-flavored, how many fruit-flavored candies are there?
+A: There are 36 fruit-flavored candies.
+
+Q: A recipe requires 1/2 cup of flour. If you want to make triple the recipe, how many cups of flour do you need?
+A: You need 1.5 cups of flour.
+
+Q: A store sells pens for $1.50 each and markers for $2.00 each. If John buys 5 pens and 3 markers, how much does he spend?
+A: John spends $10.50.
+
+Q: A recipe requires 2/3 cup of flour to make 12 cookies. If you want to make 24 cookies, how many cups of flour do you need?
+A: You need 1 1/3 cups of flour.
+
+Q: A rectangular garden has a length of 15 meters and a width of 10 meters. What is the area of the garden?
+A: The area of the garden is 150 square meters.
+
+Q: A car travels at an average speed of 80 kilometers per hour. How long will it take to travel a distance of 160 kilometers?
+A: It will take 2 hours.
+
+Q: Peter has 4 times as much money as Jack. If Jack has $50, how much money does Peter have?
+A: Peter has $200.
+
+Q: A recipe calls for 1/2 cup of sugar. If you want to make double the recipe, how many cups of sugar do you need?
+A: You need 1 cup of sugar.
+
+Q: A rectangular garden has a length of 18 meters and a width of 12 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 60 meters.
+
+Q: A class has 35 students. If 3/7 of them are absent, how many students are present?
+A: There are 20 students present.
+
+Q: A box contains 80 candies. If 2/5 of the candies are chocolate and the rest are fruit-flavored, how many fruit-flavored candies are there?
+A: There are 48 fruit-flavored candies.
+
+Q: A store sells apples for $0.75 each and bananas for $0.50 each. If Jane buys 4 apples and 6 bananas, how much does she spend?
+A: Jane spends $6.50.
+
+Q: A recipe requires 2/3 cup of flour to make 12 cookies. If you want to make 36 cookies, how many cups of flour do you need?
+A: You need 2 cups of flour.
+
+Q: A rectangular garden has a length of 12 meters and a width of 8 meters. What is the area of the garden?
+A: The area of the garden is 96 square meters.
+
+Q: A car travels at an average speed of 70 kilometers per hour. How long will it take to travel a distance of 140 kilometers?
+A: It will take 2 hours.
+
+Q: Peter has 3 times as much money as Jack. If Jack has $30, how much money does Peter have?
+A: Peter has $90.
+
+Q: A recipe calls for 1/3 cup of sugar. If you want to make double the recipe, how many cups of sugar do you need?
+A: You need 2/3 cup of sugar.
+
+Q: A rectangular garden has a length of 15 meters and a width of 10 meters. What is the perimeter of the garden?
+A: The perimeter of the garden is 50 meters.
+
+Q: A class has 30 students. If 1/4 of them are absent, how many students are present?
+A: There are 22 students present.
+
+Q: A box contains 60 candies. If 2/3 of the candies are chocolate and the rest are fruit-flavored, how many fruit-flavored candies are there?
+A: There are 20 fruit-flavored candies.
+
